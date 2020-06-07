@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "777149243957",
+    "firebase_url": "https://smarthome-dashboard-39231.firebaseio.com",
+    "project_id": "smarthome-dashboard-39231",
+    "storage_bucket": "smarthome-dashboard-39231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777149243957:android:84d2dfe8eb6187c446477c",
+        "android_client_info": {
+          "package_name": "com.example.smarthomedashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777149243957-p00sq4s6hq8ea4ghj18ftvpkv0152d7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsMD1Mq32pKUZzqY7-iSESKmIZHHxpMYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777149243957-p00sq4s6hq8ea4ghj18ftvpkv0152d7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
